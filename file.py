@@ -6,5 +6,6 @@ Created on Thu Jan 23 14:26:09 2020
 @author: giulia
 """
 
+# this function sums two values
 def func(a, b):
     return a + b
