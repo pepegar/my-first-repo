@@ -8,4 +8,4 @@ Created on Thu Jan 23 14:26:09 2020
 
 # this function sums two values
 def func(a, b):
-    return a + b
+    return a * b
